@@ -1,0 +1,49 @@
+# Example run: teach a small open-weight model to normalise dates to ISO 8601.
+# Relative paths resolve against the project root.
+
+task:
+  name: date-normalization
+  description: Convert a free-form English date (possibly inside a sentence) to ISO 8601, YYYY-MM-DD. US order for slashed dates.
+  system_prompt: Convert the date in the user's message to ISO 8601 (YYYY-MM-DD). Reply with the date only.
+
+model:
+  base: HuggingFaceTB/SmolLM2-135M-Instruct   # any HF causal LM with a chat template
+  quantization: none                         # "4bit" = QLoRA (CUDA + bitsandbytes)
+  dtype: auto
+
+data:
+  train: data/sample/train.jsonl
+  eval: data/sample/eval.jsonl     # optional: carved from train if omitted
+  test: data/sample/test.jsonl     # optional: carved from train if omitted
+  seed: 13
+
+evals:
+  metrics: [exact_match, token_f1]
+  targets:
+    exact_match: 0.85
+  max_new_tokens: 16
+  batch_size: 32
+  judge:
+    enabled: false                 # set true to add a Claude-graded "llm_judge" metric
+    model: claude-opus-5-5
+    rubric: The answer must be the same calendar date as the reference, in YYYY-MM-DD form, with nothing else.
+
+search:
+  policy: claude                   # falls back to "heuristic" when no Anthropic credentials are found
+  agent_model: claude-opus-5-5
+  agent_effort: high
+  max_trials: 5
+  max_hours: 2
+  stop_on_target: true
+  initial:
+    learning_rate: 0.0003
+    num_epochs: 2
+    lora_r: 16
+    lora_alpha: 32
+    lora_dropout: 0.05
+    target_modules: all-linear
+    batch_size: 16
+    grad_accum: 1
+    max_seq_len: 256
+
+output_dir: runs/date-normalization

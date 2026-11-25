@@ -1,0 +1,29 @@
+[project]
+name = "modeltuner"
+version = "0.1.0"
+description = "Agent that fine-tunes an open-weight model on a golden dataset until eval targets are met"
+requires-python = ">=3.10"
+dependencies = [
+  "torch>=2.3",
+  "transformers>=4.56",
+  "trl>=0.24",
+  "peft>=0.17",
+  "datasets>=3.0",
+  "accelerate>=1.0",
+  "anthropic>=0.80",
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+qlora = ["bitsandbytes>=0.45"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+modeltuner = "modeltuner.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["modeltuner"]

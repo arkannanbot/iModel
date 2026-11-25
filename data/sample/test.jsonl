@@ -1,0 +1,60 @@
+{"id": "test-0", "input": "Invoice issued 2016.05.29", "output": "2016-05-29"}
+{"id": "test-1", "input": "Date: the 7th of October, 2014", "output": "2014-10-07"}
+{"id": "test-2", "input": "The meeting is on 2/6/1974.", "output": "1974-02-06"}
+{"id": "test-3", "input": "OCTOBER 12 2023 (please confirm)", "output": "2023-10-12"}
+{"id": "test-4", "input": "The meeting is on Wednesday, April 2nd 1969.", "output": "1969-04-02"}
+{"id": "test-5", "input": "Friday, June 21st 1963", "output": "1963-06-21"}
+{"id": "test-6", "input": "The meeting is on June 20, 1969.", "output": "1969-06-20"}
+{"id": "test-7", "input": "September 20, 1985", "output": "1985-09-20"}
+{"id": "test-8", "input": "Wednesday, April 28th 1954 (please confirm)", "output": "1954-04-28"}
+{"id": "test-9", "input": "Invoice issued 4/9/2022", "output": "2022-04-09"}
+{"id": "test-10", "input": "The meeting is on Aug 25th, 1962.", "output": "1962-08-25"}
+{"id": "test-11", "input": "Invoice issued Jun 7th, 1954", "output": "1954-06-07"}
+{"id": "test-12", "input": "January 2, 1960 (please confirm)", "output": "1960-01-02"}
+{"id": "test-13", "input": "Monday, December 15th 1997", "output": "1997-12-15"}
+{"id": "test-14", "input": "13 November 2026", "output": "2026-11-13"}
+{"id": "test-15", "input": "the 19th of June, 1982", "output": "1982-06-19"}
+{"id": "test-16", "input": "Invoice issued Sep 13th, 2035", "output": "2035-09-13"}
+{"id": "test-17", "input": "Date: the 8th of June, 1970", "output": "1970-06-08"}
+{"id": "test-18", "input": "1954.05.31", "output": "1954-05-31"}
+{"id": "test-19", "input": "The meeting is on January 27, 2020.", "output": "2020-01-27"}
+{"id": "test-20", "input": "Thursday, December 24th 2015", "output": "2015-12-24"}
+{"id": "test-21", "input": "Date: March 11, 1962", "output": "1962-03-11"}
+{"id": "test-22", "input": "Wednesday, October 19th 1988", "output": "1988-10-19"}
+{"id": "test-23", "input": "Invoice issued 6/12/2010", "output": "2010-06-12"}
+{"id": "test-24", "input": "Date: JUNE 16 1965", "output": "1965-06-16"}
+{"id": "test-25", "input": "Apr 26th, 2006", "output": "2006-04-26"}
+{"id": "test-26", "input": "the 30th of December, 2009", "output": "2009-12-30"}
+{"id": "test-27", "input": "Date: 1970.04.03", "output": "1970-04-03"}
+{"id": "test-28", "input": "February 13, 2007", "output": "2007-02-13"}
+{"id": "test-29", "input": "Invoice issued the 11th of June, 2007", "output": "2007-06-11"}
+{"id": "test-30", "input": "The meeting is on Nov 12th, 1964.", "output": "1964-11-12"}
+{"id": "test-31", "input": "Invoice issued Dec 2nd, 1978", "output": "1978-12-02"}
+{"id": "test-32", "input": "The meeting is on Mar 15th, 2020.", "output": "2020-03-15"}
+{"id": "test-33", "input": "Jul 8th, 2003", "output": "2003-07-08"}
+{"id": "test-34", "input": "The meeting is on 10/27/1984.", "output": "1984-10-27"}
+{"id": "test-35", "input": "The meeting is on 16 May 1971.", "output": "1971-05-16"}
+{"id": "test-36", "input": "Aug 4th, 2008 (please confirm)", "output": "2008-08-04"}
+{"id": "test-37", "input": "the 29th of November, 1957 (please confirm)", "output": "1957-11-29"}
+{"id": "test-38", "input": "Date: 5/4/2011", "output": "2011-05-04"}
+{"id": "test-39", "input": "Date: the 9th of July, 1996", "output": "1996-07-09"}
+{"id": "test-40", "input": "Date: JULY 10 1962", "output": "1962-07-10"}
+{"id": "test-41", "input": "Dec 10th, 1957", "output": "1957-12-10"}
+{"id": "test-42", "input": "Invoice issued Sep 11th, 2006", "output": "2006-09-11"}
+{"id": "test-43", "input": "The meeting is on Sep 10th, 1950.", "output": "1950-09-10"}
+{"id": "test-44", "input": "Date: JANUARY 30 2005", "output": "2005-01-30"}
+{"id": "test-45", "input": "Date: Oct 6th, 1985", "output": "1985-10-06"}
+{"id": "test-46", "input": "Date: Apr 23rd, 2016", "output": "2016-04-23"}
+{"id": "test-47", "input": "27 February 2026 (please confirm)", "output": "2026-02-27"}
+{"id": "test-48", "input": "Date: the 6th of May, 2013", "output": "2013-05-06"}
+{"id": "test-49", "input": "the 23rd of November, 2028 (please confirm)", "output": "2028-11-23"}
+{"id": "test-50", "input": "1 April 1989 (please confirm)", "output": "1989-04-01"}
+{"id": "test-51", "input": "December 30, 2002 (please confirm)", "output": "2002-12-30"}
+{"id": "test-52", "input": "Friday, June 10th 1994", "output": "1994-06-10"}
+{"id": "test-53", "input": "Date: Monday, July 30th 1951", "output": "1951-07-30"}
+{"id": "test-54", "input": "May 8th, 2035 (please confirm)", "output": "2035-05-08"}
+{"id": "test-55", "input": "1996.01.06 (please confirm)", "output": "1996-01-06"}
+{"id": "test-56", "input": "Monday, January 12th 2026 (please confirm)", "output": "2026-01-12"}
+{"id": "test-57", "input": "The meeting is on the 12th of February, 1959.", "output": "1959-02-12"}
+{"id": "test-58", "input": "The meeting is on October 25, 1998.", "output": "1998-10-25"}
+{"id": "test-59", "input": "Monday, December 16th 1963 (please confirm)", "output": "1963-12-16"}

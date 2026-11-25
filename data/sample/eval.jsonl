@@ -1,0 +1,60 @@
+{"id": "eval-0", "input": "Date: FEBRUARY 9 2021", "output": "2021-02-09"}
+{"id": "eval-1", "input": "Invoice issued August 16, 1967", "output": "1967-08-16"}
+{"id": "eval-2", "input": "Date: Monday, March 23rd 2009", "output": "2009-03-23"}
+{"id": "eval-3", "input": "Date: March 18, 2013", "output": "2013-03-18"}
+{"id": "eval-4", "input": "The meeting is on Friday, August 23rd 1991.", "output": "1991-08-23"}
+{"id": "eval-5", "input": "JUNE 14 2009", "output": "2009-06-14"}
+{"id": "eval-6", "input": "November 12, 1973", "output": "1973-11-12"}
+{"id": "eval-7", "input": "2028.01.22", "output": "2028-01-22"}
+{"id": "eval-8", "input": "Aug 16th, 2015", "output": "2015-08-16"}
+{"id": "eval-9", "input": "The meeting is on Dec 14th, 1977.", "output": "1977-12-14"}
+{"id": "eval-10", "input": "Invoice issued 1962.11.12", "output": "1962-11-12"}
+{"id": "eval-11", "input": "The meeting is on the 25th of September, 2017.", "output": "2017-09-25"}
+{"id": "eval-12", "input": "6/14/2005 (please confirm)", "output": "2005-06-14"}
+{"id": "eval-13", "input": "Invoice issued 1956.05.10", "output": "1956-05-10"}
+{"id": "eval-14", "input": "6/17/2001 (please confirm)", "output": "2001-06-17"}
+{"id": "eval-15", "input": "Thursday, April 21st 1994", "output": "1994-04-21"}
+{"id": "eval-16", "input": "Date: 4/11/1992", "output": "1992-04-11"}
+{"id": "eval-17", "input": "Invoice issued November 3, 2025", "output": "2025-11-03"}
+{"id": "eval-18", "input": "Invoice issued July 18, 2020", "output": "2020-07-18"}
+{"id": "eval-19", "input": "Date: February 1, 1988", "output": "1988-02-01"}
+{"id": "eval-20", "input": "October 25, 2010 (please confirm)", "output": "2010-10-25"}
+{"id": "eval-21", "input": "Oct 13th, 2019 (please confirm)", "output": "2019-10-13"}
+{"id": "eval-22", "input": "Date: Saturday, April 2nd 1960", "output": "1960-04-02"}
+{"id": "eval-23", "input": "Invoice issued November 6, 1962", "output": "1962-11-06"}
+{"id": "eval-24", "input": "Date: 1962.11.01", "output": "1962-11-01"}
+{"id": "eval-25", "input": "The meeting is on 9/23/1989.", "output": "1989-09-23"}
+{"id": "eval-26", "input": "1973.07.02", "output": "1973-07-02"}
+{"id": "eval-27", "input": "Invoice issued October 21, 2005", "output": "2005-10-21"}
+{"id": "eval-28", "input": "Invoice issued 2 September 2022", "output": "2022-09-02"}
+{"id": "eval-29", "input": "Invoice issued DECEMBER 30 2023", "output": "2023-12-30"}
+{"id": "eval-30", "input": "JANUARY 22 1958 (please confirm)", "output": "1958-01-22"}
+{"id": "eval-31", "input": "Invoice issued Wednesday, November 5th 2025", "output": "2025-11-05"}
+{"id": "eval-32", "input": "Date: Monday, February 3rd 2020", "output": "2020-02-03"}
+{"id": "eval-33", "input": "NOVEMBER 1 1969", "output": "1969-11-01"}
+{"id": "eval-34", "input": "22 November 1951", "output": "1951-11-22"}
+{"id": "eval-35", "input": "Saturday, February 5th 1977", "output": "1977-02-05"}
+{"id": "eval-36", "input": "Invoice issued the 19th of December, 1985", "output": "1985-12-19"}
+{"id": "eval-37", "input": "Jan 12th, 1973", "output": "1973-01-12"}
+{"id": "eval-38", "input": "Invoice issued Wednesday, November 18th 1987", "output": "1987-11-18"}
+{"id": "eval-39", "input": "May 30, 2035", "output": "2035-05-30"}
+{"id": "eval-40", "input": "Invoice issued 1 January 1951", "output": "1951-01-01"}
+{"id": "eval-41", "input": "Invoice issued May 24th, 1989", "output": "1989-05-24"}
+{"id": "eval-42", "input": "2027.01.11 (please confirm)", "output": "2027-01-11"}
+{"id": "eval-43", "input": "Date: Aug 22nd, 2006", "output": "2006-08-22"}
+{"id": "eval-44", "input": "Invoice issued Jun 21st, 1964", "output": "1964-06-21"}
+{"id": "eval-45", "input": "The meeting is on Monday, July 25th 2011.", "output": "2011-07-25"}
+{"id": "eval-46", "input": "6/10/2022", "output": "2022-06-10"}
+{"id": "eval-47", "input": "2029.11.23 (please confirm)", "output": "2029-11-23"}
+{"id": "eval-48", "input": "3/20/1951 (please confirm)", "output": "1951-03-20"}
+{"id": "eval-49", "input": "Invoice issued APRIL 13 2004", "output": "2004-04-13"}
+{"id": "eval-50", "input": "The meeting is on Monday, April 26th 2027.", "output": "2027-04-26"}
+{"id": "eval-51", "input": "Invoice issued 6/9/1950", "output": "1950-06-09"}
+{"id": "eval-52", "input": "The meeting is on October 30, 1970.", "output": "1970-10-30"}
+{"id": "eval-53", "input": "10/5/1968 (please confirm)", "output": "1968-10-05"}
+{"id": "eval-54", "input": "18 June 2013 (please confirm)", "output": "2013-06-18"}
+{"id": "eval-55", "input": "Date: AUGUST 26 2020", "output": "2020-08-26"}
+{"id": "eval-56", "input": "Invoice issued May 20, 1979", "output": "1979-05-20"}
+{"id": "eval-57", "input": "12/7/2009 (please confirm)", "output": "2009-12-07"}
+{"id": "eval-58", "input": "15 July 1951 (please confirm)", "output": "1951-07-15"}
+{"id": "eval-59", "input": "FEBRUARY 8 1995 (please confirm)", "output": "1995-02-08"}

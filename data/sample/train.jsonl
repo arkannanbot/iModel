@@ -1,0 +1,400 @@
+{"id": "train-0", "input": "March 13, 1991", "output": "1991-03-13"}
+{"id": "train-1", "input": "February 12, 2018 (please confirm)", "output": "2018-02-12"}
+{"id": "train-2", "input": "Invoice issued JANUARY 3 1977", "output": "1977-01-03"}
+{"id": "train-3", "input": "APRIL 3 1958", "output": "1958-04-03"}
+{"id": "train-4", "input": "February 8, 2022 (please confirm)", "output": "2022-02-08"}
+{"id": "train-5", "input": "the 2nd of July, 2024", "output": "2024-07-02"}
+{"id": "train-6", "input": "Date: MARCH 10 2021", "output": "2021-03-10"}
+{"id": "train-7", "input": "2/19/2019 (please confirm)", "output": "2019-02-19"}
+{"id": "train-8", "input": "The meeting is on the 19th of February, 1973.", "output": "1973-02-19"}
+{"id": "train-9", "input": "23 September 1962 (please confirm)", "output": "1962-09-23"}
+{"id": "train-10", "input": "Monday, October 7th 1957 (please confirm)", "output": "1957-10-07"}
+{"id": "train-11", "input": "The meeting is on Tuesday, June 15th 2004.", "output": "2004-06-15"}
+{"id": "train-12", "input": "Date: Apr 26th, 1988", "output": "1988-04-26"}
+{"id": "train-13", "input": "The meeting is on Monday, October 10th 1960.", "output": "1960-10-10"}
+{"id": "train-14", "input": "20 May 2007", "output": "2007-05-20"}
+{"id": "train-15", "input": "Date: 2015.07.06", "output": "2015-07-06"}
+{"id": "train-16", "input": "2 July 2012 (please confirm)", "output": "2012-07-02"}
+{"id": "train-17", "input": "2023.06.11 (please confirm)", "output": "2023-06-11"}
+{"id": "train-18", "input": "Saturday, October 26th 2013", "output": "2013-10-26"}
+{"id": "train-19", "input": "16 May 1961", "output": "1961-05-16"}
+{"id": "train-20", "input": "The meeting is on Sunday, November 19th 1989.", "output": "1989-11-19"}
+{"id": "train-21", "input": "Invoice issued November 12, 1999", "output": "1999-11-12"}
+{"id": "train-22", "input": "Invoice issued 20 March 1995", "output": "1995-03-20"}
+{"id": "train-23", "input": "Date: 4/25/1957", "output": "1957-04-25"}
+{"id": "train-24", "input": "Monday, July 13th 1981", "output": "1981-07-13"}
+{"id": "train-25", "input": "Date: 8/13/1971", "output": "1971-08-13"}
+{"id": "train-26", "input": "The meeting is on SEPTEMBER 9 2005.", "output": "2005-09-09"}
+{"id": "train-27", "input": "Date: 5 April 1998", "output": "1998-04-05"}
+{"id": "train-28", "input": "the 22nd of April, 1969", "output": "1969-04-22"}
+{"id": "train-29", "input": "The meeting is on 10/6/2012.", "output": "2012-10-06"}
+{"id": "train-30", "input": "1950.03.14 (please confirm)", "output": "1950-03-14"}
+{"id": "train-31", "input": "Invoice issued June 5, 2022", "output": "2022-06-05"}
+{"id": "train-32", "input": "Invoice issued JULY 13 2021", "output": "2021-07-13"}
+{"id": "train-33", "input": "AUGUST 21 1963", "output": "1963-08-21"}
+{"id": "train-34", "input": "Date: Thursday, February 7th 1974", "output": "1974-02-07"}
+{"id": "train-35", "input": "June 20, 1964", "output": "1964-06-20"}
+{"id": "train-36", "input": "The meeting is on 5 October 1950.", "output": "1950-10-05"}
+{"id": "train-37", "input": "the 3rd of January, 2028 (please confirm)", "output": "2028-01-03"}
+{"id": "train-38", "input": "The meeting is on 3/21/1998.", "output": "1998-03-21"}
+{"id": "train-39", "input": "16 June 2027", "output": "2027-06-16"}
+{"id": "train-40", "input": "The meeting is on Thursday, August 16th 2012.", "output": "2012-08-16"}
+{"id": "train-41", "input": "The meeting is on 1960.03.04.", "output": "1960-03-04"}
+{"id": "train-42", "input": "Date: December 6, 2011", "output": "2011-12-06"}
+{"id": "train-43", "input": "June 5, 2017 (please confirm)", "output": "2017-06-05"}
+{"id": "train-44", "input": "The meeting is on 28 November 1988.", "output": "1988-11-28"}
+{"id": "train-45", "input": "The meeting is on Jun 30th, 2016.", "output": "2016-06-30"}
+{"id": "train-46", "input": "Date: 1978.09.18", "output": "1978-09-18"}
+{"id": "train-47", "input": "Invoice issued the 26th of April, 2028", "output": "2028-04-26"}
+{"id": "train-48", "input": "The meeting is on Tuesday, April 17th 1979.", "output": "1979-04-17"}
+{"id": "train-49", "input": "Invoice issued 1/26/1953", "output": "1953-01-26"}
+{"id": "train-50", "input": "Invoice issued 1983.04.23", "output": "1983-04-23"}
+{"id": "train-51", "input": "the 3rd of June, 1994", "output": "1994-06-03"}
+{"id": "train-52", "input": "Date: 1979.08.07", "output": "1979-08-07"}
+{"id": "train-53", "input": "Invoice issued October 29, 2011", "output": "2011-10-29"}
+{"id": "train-54", "input": "26 June 2033", "output": "2033-06-26"}
+{"id": "train-55", "input": "Invoice issued the 25th of December, 1999", "output": "1999-12-25"}
+{"id": "train-56", "input": "1972.07.26", "output": "1972-07-26"}
+{"id": "train-57", "input": "Date: 13 August 2000", "output": "2000-08-13"}
+{"id": "train-58", "input": "Mar 1st, 1971 (please confirm)", "output": "1971-03-01"}
+{"id": "train-59", "input": "The meeting is on Thursday, November 5th 2009.", "output": "2009-11-05"}
+{"id": "train-60", "input": "Sep 18th, 1969", "output": "1969-09-18"}
+{"id": "train-61", "input": "21 December 1951 (please confirm)", "output": "1951-12-21"}
+{"id": "train-62", "input": "Date: the 28th of July, 1967", "output": "1967-07-28"}
+{"id": "train-63", "input": "5/7/1953 (please confirm)", "output": "1953-05-07"}
+{"id": "train-64", "input": "10/11/1980 (please confirm)", "output": "1980-10-11"}
+{"id": "train-65", "input": "Invoice issued 2003.03.02", "output": "2003-03-02"}
+{"id": "train-66", "input": "OCTOBER 27 2034 (please confirm)", "output": "2034-10-27"}
+{"id": "train-67", "input": "Invoice issued September 5, 1966", "output": "1966-09-05"}
+{"id": "train-68", "input": "Date: Oct 1st, 1973", "output": "1973-10-01"}
+{"id": "train-69", "input": "20 August 1968 (please confirm)", "output": "1968-08-20"}
+{"id": "train-70", "input": "Saturday, June 22nd 1957", "output": "1957-06-22"}
+{"id": "train-71", "input": "The meeting is on the 8th of January, 2021.", "output": "2021-01-08"}
+{"id": "train-72", "input": "Thursday, February 17th 1955 (please confirm)", "output": "1955-02-17"}
+{"id": "train-73", "input": "1953.02.15 (please confirm)", "output": "1953-02-15"}
+{"id": "train-74", "input": "The meeting is on the 17th of October, 2014.", "output": "2014-10-17"}
+{"id": "train-75", "input": "Tuesday, September 18th 2007 (please confirm)", "output": "2007-09-18"}
+{"id": "train-76", "input": "12/17/1981 (please confirm)", "output": "1981-12-17"}
+{"id": "train-77", "input": "AUGUST 5 1975", "output": "1975-08-05"}
+{"id": "train-78", "input": "Date: 11 August 2000", "output": "2000-08-11"}
+{"id": "train-79", "input": "2/7/2004", "output": "2004-02-07"}
+{"id": "train-80", "input": "Date: 1969.12.21", "output": "1969-12-21"}
+{"id": "train-81", "input": "Date: Wednesday, March 31st 1982", "output": "1982-03-31"}
+{"id": "train-82", "input": "Date: Sunday, July 29th 1962", "output": "1962-07-29"}
+{"id": "train-83", "input": "APRIL 6 2035 (please confirm)", "output": "2035-04-06"}
+{"id": "train-84", "input": "The meeting is on the 14th of June, 2001.", "output": "2001-06-14"}
+{"id": "train-85", "input": "1990.02.24", "output": "1990-02-24"}
+{"id": "train-86", "input": "Wednesday, September 15th 1993", "output": "1993-09-15"}
+{"id": "train-87", "input": "6/17/1999 (please confirm)", "output": "1999-06-17"}
+{"id": "train-88", "input": "the 26th of February, 1958", "output": "1958-02-26"}
+{"id": "train-89", "input": "Date: May 9, 1960", "output": "1960-05-09"}
+{"id": "train-90", "input": "The meeting is on MARCH 27 1984.", "output": "1984-03-27"}
+{"id": "train-91", "input": "The meeting is on Sunday, March 18th 2001.", "output": "2001-03-18"}
+{"id": "train-92", "input": "Invoice issued May 2nd, 1961", "output": "1961-05-02"}
+{"id": "train-93", "input": "May 31, 1959", "output": "1959-05-31"}
+{"id": "train-94", "input": "the 20th of February, 1983", "output": "1983-02-20"}
+{"id": "train-95", "input": "The meeting is on February 15, 1983.", "output": "1983-02-15"}
+{"id": "train-96", "input": "7/30/2020 (please confirm)", "output": "2020-07-30"}
+{"id": "train-97", "input": "the 17th of January, 1966", "output": "1966-01-17"}
+{"id": "train-98", "input": "Date: May 2nd, 1970", "output": "1970-05-02"}
+{"id": "train-99", "input": "The meeting is on the 10th of November, 1989.", "output": "1989-11-10"}
+{"id": "train-100", "input": "The meeting is on Sep 22nd, 2007.", "output": "2007-09-22"}
+{"id": "train-101", "input": "January 9, 1994", "output": "1994-01-09"}
+{"id": "train-102", "input": "the 17th of December, 1952 (please confirm)", "output": "1952-12-17"}
+{"id": "train-103", "input": "Friday, April 30th 2010", "output": "2010-04-30"}
+{"id": "train-104", "input": "Tuesday, November 14th 2034 (please confirm)", "output": "2034-11-14"}
+{"id": "train-105", "input": "Date: the 10th of September, 2000", "output": "2000-09-10"}
+{"id": "train-106", "input": "Invoice issued Apr 27th, 1993", "output": "1993-04-27"}
+{"id": "train-107", "input": "Jan 27th, 1994", "output": "1994-01-27"}
+{"id": "train-108", "input": "Invoice issued 11/24/1959", "output": "1959-11-24"}
+{"id": "train-109", "input": "JANUARY 3 1970 (please confirm)", "output": "1970-01-03"}
+{"id": "train-110", "input": "The meeting is on the 20th of May, 2035.", "output": "2035-05-20"}
+{"id": "train-111", "input": "The meeting is on Aug 6th, 1955.", "output": "1955-08-06"}
+{"id": "train-112", "input": "The meeting is on 2007.01.09.", "output": "2007-01-09"}
+{"id": "train-113", "input": "The meeting is on June 8, 2020.", "output": "2020-06-08"}
+{"id": "train-114", "input": "The meeting is on June 6, 1977.", "output": "1977-06-06"}
+{"id": "train-115", "input": "2/16/1998 (please confirm)", "output": "1998-02-16"}
+{"id": "train-116", "input": "April 8, 2033", "output": "2033-04-08"}
+{"id": "train-117", "input": "FEBRUARY 5 1983 (please confirm)", "output": "1983-02-05"}
+{"id": "train-118", "input": "The meeting is on 7/1/1955.", "output": "1955-07-01"}
+{"id": "train-119", "input": "Apr 3rd, 2030 (please confirm)", "output": "2030-04-03"}
+{"id": "train-120", "input": "Date: Thursday, June 24th 1999", "output": "1999-06-24"}
+{"id": "train-121", "input": "Dec 20th, 1986", "output": "1986-12-20"}
+{"id": "train-122", "input": "Nov 14th, 2015 (please confirm)", "output": "2015-11-14"}
+{"id": "train-123", "input": "October 27, 2014 (please confirm)", "output": "2014-10-27"}
+{"id": "train-124", "input": "April 3, 2032", "output": "2032-04-03"}
+{"id": "train-125", "input": "Invoice issued 12 November 1967", "output": "1967-11-12"}
+{"id": "train-126", "input": "September 2, 2007 (please confirm)", "output": "2007-09-02"}
+{"id": "train-127", "input": "Invoice issued August 9, 1981", "output": "1981-08-09"}
+{"id": "train-128", "input": "30 December 1958 (please confirm)", "output": "1958-12-30"}
+{"id": "train-129", "input": "The meeting is on Wednesday, December 24th 1958.", "output": "1958-12-24"}
+{"id": "train-130", "input": "Date: the 8th of May, 1959", "output": "1959-05-08"}
+{"id": "train-131", "input": "AUGUST 16 2033", "output": "2033-08-16"}
+{"id": "train-132", "input": "November 10, 2011 (please confirm)", "output": "2011-11-10"}
+{"id": "train-133", "input": "7 November 2030 (please confirm)", "output": "2030-11-07"}
+{"id": "train-134", "input": "6/9/1968 (please confirm)", "output": "1968-06-09"}
+{"id": "train-135", "input": "Tuesday, March 1st 2022", "output": "2022-03-01"}
+{"id": "train-136", "input": "Date: 22 May 2012", "output": "2012-05-22"}
+{"id": "train-137", "input": "Invoice issued 5/23/2012", "output": "2012-05-23"}
+{"id": "train-138", "input": "25 August 2009 (please confirm)", "output": "2009-08-25"}
+{"id": "train-139", "input": "Saturday, May 3rd 1975", "output": "1975-05-03"}
+{"id": "train-140", "input": "The meeting is on Monday, August 3rd 1987.", "output": "1987-08-03"}
+{"id": "train-141", "input": "the 30th of April, 1999", "output": "1999-04-30"}
+{"id": "train-142", "input": "The meeting is on 2/5/2024.", "output": "2024-02-05"}
+{"id": "train-143", "input": "10/27/1966", "output": "1966-10-27"}
+{"id": "train-144", "input": "Invoice issued Tuesday, April 16th 1996", "output": "1996-04-16"}
+{"id": "train-145", "input": "Invoice issued Sunday, March 1st 1953", "output": "1953-03-01"}
+{"id": "train-146", "input": "Invoice issued May 24th, 2001", "output": "2001-05-24"}
+{"id": "train-147", "input": "The meeting is on 11 July 1994.", "output": "1994-07-11"}
+{"id": "train-148", "input": "Invoice issued 1950.06.25", "output": "1950-06-25"}
+{"id": "train-149", "input": "The meeting is on April 23, 1965.", "output": "1965-04-23"}
+{"id": "train-150", "input": "Invoice issued JUNE 3 1982", "output": "1982-06-03"}
+{"id": "train-151", "input": "The meeting is on FEBRUARY 12 2025.", "output": "2025-02-12"}
+{"id": "train-152", "input": "The meeting is on May 4, 1956.", "output": "1956-05-04"}
+{"id": "train-153", "input": "Invoice issued 3/8/2031", "output": "2031-03-08"}
+{"id": "train-154", "input": "Invoice issued 2015.06.07", "output": "2015-06-07"}
+{"id": "train-155", "input": "the 13th of November, 1953", "output": "1953-11-13"}
+{"id": "train-156", "input": "Friday, December 14th 1956 (please confirm)", "output": "1956-12-14"}
+{"id": "train-157", "input": "Invoice issued 11/28/1967", "output": "1967-11-28"}
+{"id": "train-158", "input": "Invoice issued Sep 5th, 1956", "output": "1956-09-05"}
+{"id": "train-159", "input": "The meeting is on 6/10/2003.", "output": "2003-06-10"}
+{"id": "train-160", "input": "The meeting is on the 13th of May, 2033.", "output": "2033-05-13"}
+{"id": "train-161", "input": "SEPTEMBER 22 2011", "output": "2011-09-22"}
+{"id": "train-162", "input": "Date: 6 November 1971", "output": "1971-11-06"}
+{"id": "train-163", "input": "Invoice issued the 18th of August, 2014", "output": "2014-08-18"}
+{"id": "train-164", "input": "Aug 14th, 1992 (please confirm)", "output": "1992-08-14"}
+{"id": "train-165", "input": "The meeting is on Apr 3rd, 1974.", "output": "1974-04-03"}
+{"id": "train-166", "input": "The meeting is on the 11th of February, 2021.", "output": "2021-02-11"}
+{"id": "train-167", "input": "Invoice issued October 7, 1983", "output": "1983-10-07"}
+{"id": "train-168", "input": "Invoice issued the 24th of July, 1999", "output": "1999-07-24"}
+{"id": "train-169", "input": "Invoice issued June 25, 1984", "output": "1984-06-25"}
+{"id": "train-170", "input": "Date: 1985.10.31", "output": "1985-10-31"}
+{"id": "train-171", "input": "the 21st of September, 2014", "output": "2014-09-21"}
+{"id": "train-172", "input": "Invoice issued APRIL 13 1984", "output": "1984-04-13"}
+{"id": "train-173", "input": "Date: May 28, 2005", "output": "2005-05-28"}
+{"id": "train-174", "input": "Friday, July 23rd 1954 (please confirm)", "output": "1954-07-23"}
+{"id": "train-175", "input": "JANUARY 3 2012 (please confirm)", "output": "2012-01-03"}
+{"id": "train-176", "input": "Date: 8 August 2009", "output": "2009-08-08"}
+{"id": "train-177", "input": "Invoice issued 17 March 1969", "output": "1969-03-17"}
+{"id": "train-178", "input": "September 25, 1960", "output": "1960-09-25"}
+{"id": "train-179", "input": "The meeting is on April 19, 1966.", "output": "1966-04-19"}
+{"id": "train-180", "input": "NOVEMBER 9 1966", "output": "1966-11-09"}
+{"id": "train-181", "input": "Invoice issued the 10th of February, 1962", "output": "1962-02-10"}
+{"id": "train-182", "input": "April 26, 1983", "output": "1983-04-26"}
+{"id": "train-183", "input": "The meeting is on 5/15/2018.", "output": "2018-05-15"}
+{"id": "train-184", "input": "the 16th of April, 2032 (please confirm)", "output": "2032-04-16"}
+{"id": "train-185", "input": "The meeting is on JANUARY 31 1981.", "output": "1981-01-31"}
+{"id": "train-186", "input": "Invoice issued Monday, January 7th 1957", "output": "1957-01-07"}
+{"id": "train-187", "input": "The meeting is on MAY 8 1960.", "output": "1960-05-08"}
+{"id": "train-188", "input": "Invoice issued 1979.08.02", "output": "1979-08-02"}
+{"id": "train-189", "input": "the 13th of November, 1996", "output": "1996-11-13"}
+{"id": "train-190", "input": "Date: 28 December 1987", "output": "1987-12-28"}
+{"id": "train-191", "input": "Date: the 10th of April, 2013", "output": "2013-04-10"}
+{"id": "train-192", "input": "4/9/2009", "output": "2009-04-09"}
+{"id": "train-193", "input": "Date: Aug 20th, 2029", "output": "2029-08-20"}
+{"id": "train-194", "input": "July 30, 2012 (please confirm)", "output": "2012-07-30"}
+{"id": "train-195", "input": "the 2nd of July, 1968", "output": "1968-07-02"}
+{"id": "train-196", "input": "March 14, 2026", "output": "2026-03-14"}
+{"id": "train-197", "input": "1973.07.15", "output": "1973-07-15"}
+{"id": "train-198", "input": "Date: the 11th of March, 1960", "output": "1960-03-11"}
+{"id": "train-199", "input": "Saturday, September 24th 2033", "output": "2033-09-24"}
+{"id": "train-200", "input": "The meeting is on NOVEMBER 24 1989.", "output": "1989-11-24"}
+{"id": "train-201", "input": "6 August 1992", "output": "1992-08-06"}
+{"id": "train-202", "input": "Invoice issued 1960.05.03", "output": "1960-05-03"}
+{"id": "train-203", "input": "Invoice issued the 25th of September, 1965", "output": "1965-09-25"}
+{"id": "train-204", "input": "MAY 27 1995", "output": "1995-05-27"}
+{"id": "train-205", "input": "The meeting is on the 16th of December, 1956.", "output": "1956-12-16"}
+{"id": "train-206", "input": "The meeting is on 2019.08.07.", "output": "2019-08-07"}
+{"id": "train-207", "input": "Date: JANUARY 21 2010", "output": "2010-01-21"}
+{"id": "train-208", "input": "JULY 2 2030", "output": "2030-07-02"}
+{"id": "train-209", "input": "The meeting is on February 26, 2009.", "output": "2009-02-26"}
+{"id": "train-210", "input": "The meeting is on 1974.12.03.", "output": "1974-12-03"}
+{"id": "train-211", "input": "The meeting is on June 20, 1984.", "output": "1984-06-20"}
+{"id": "train-212", "input": "May 10, 1990 (please confirm)", "output": "1990-05-10"}
+{"id": "train-213", "input": "the 1st of February, 2031", "output": "2031-02-01"}
+{"id": "train-214", "input": "Invoice issued Friday, December 31st 2010", "output": "2010-12-31"}
+{"id": "train-215", "input": "Date: Tuesday, July 27th 1982", "output": "1982-07-27"}
+{"id": "train-216", "input": "Date: 3/1/2013", "output": "2013-03-01"}
+{"id": "train-217", "input": "Invoice issued 2027.04.11", "output": "2027-04-11"}
+{"id": "train-218", "input": "Invoice issued the 3rd of October, 1996", "output": "1996-10-03"}
+{"id": "train-219", "input": "14 April 1970", "output": "1970-04-14"}
+{"id": "train-220", "input": "Date: 2011.09.18", "output": "2011-09-18"}
+{"id": "train-221", "input": "2/3/2004 (please confirm)", "output": "2004-02-03"}
+{"id": "train-222", "input": "Invoice issued APRIL 4 1960", "output": "1960-04-04"}
+{"id": "train-223", "input": "Invoice issued Mar 8th, 2007", "output": "2007-03-08"}
+{"id": "train-224", "input": "the 29th of October, 2008 (please confirm)", "output": "2008-10-29"}
+{"id": "train-225", "input": "The meeting is on 2/25/2035.", "output": "2035-02-25"}
+{"id": "train-226", "input": "The meeting is on 1985.10.09.", "output": "1985-10-09"}
+{"id": "train-227", "input": "Date: the 15th of April, 1983", "output": "1983-04-15"}
+{"id": "train-228", "input": "4/5/1981 (please confirm)", "output": "1981-04-05"}
+{"id": "train-229", "input": "The meeting is on JUNE 3 1974.", "output": "1974-06-03"}
+{"id": "train-230", "input": "the 17th of September, 1981", "output": "1981-09-17"}
+{"id": "train-231", "input": "2 August 2033", "output": "2033-08-02"}
+{"id": "train-232", "input": "The meeting is on Tuesday, April 27th 2010.", "output": "2010-04-27"}
+{"id": "train-233", "input": "8 May 1955", "output": "1955-05-08"}
+{"id": "train-234", "input": "the 27th of October, 1974", "output": "1974-10-27"}
+{"id": "train-235", "input": "Invoice issued Sep 28th, 1997", "output": "1997-09-28"}
+{"id": "train-236", "input": "May 25, 2027", "output": "2027-05-25"}
+{"id": "train-237", "input": "Date: 2031.10.23", "output": "2031-10-23"}
+{"id": "train-238", "input": "Jun 11th, 1954", "output": "1954-06-11"}
+{"id": "train-239", "input": "the 2nd of May, 1976", "output": "1976-05-02"}
+{"id": "train-240", "input": "Date: 1991.07.22", "output": "1991-07-22"}
+{"id": "train-241", "input": "the 3rd of May, 2029", "output": "2029-05-03"}
+{"id": "train-242", "input": "Invoice issued 16 September 2013", "output": "2013-09-16"}
+{"id": "train-243", "input": "Jul 22nd, 1962 (please confirm)", "output": "1962-07-22"}
+{"id": "train-244", "input": "The meeting is on NOVEMBER 6 1961.", "output": "1961-11-06"}
+{"id": "train-245", "input": "Invoice issued 5/22/2002", "output": "2002-05-22"}
+{"id": "train-246", "input": "Invoice issued 1956.05.24", "output": "1956-05-24"}
+{"id": "train-247", "input": "Date: 2003.01.28", "output": "2003-01-28"}
+{"id": "train-248", "input": "the 13th of December, 2000", "output": "2000-12-13"}
+{"id": "train-249", "input": "14 March 2005", "output": "2005-03-14"}
+{"id": "train-250", "input": "Invoice issued 2001.10.29", "output": "2001-10-29"}
+{"id": "train-251", "input": "March 1, 1970 (please confirm)", "output": "1970-03-01"}
+{"id": "train-252", "input": "NOVEMBER 26 1968", "output": "1968-11-26"}
+{"id": "train-253", "input": "2023.10.30 (please confirm)", "output": "2023-10-30"}
+{"id": "train-254", "input": "Date: 3/12/1971", "output": "1971-03-12"}
+{"id": "train-255", "input": "30 March 2016", "output": "2016-03-30"}
+{"id": "train-256", "input": "The meeting is on the 25th of August, 1999.", "output": "1999-08-25"}
+{"id": "train-257", "input": "The meeting is on Sunday, January 30th 1966.", "output": "1966-01-30"}
+{"id": "train-258", "input": "OCTOBER 30 1956", "output": "1956-10-30"}
+{"id": "train-259", "input": "Date: Dec 27th, 2029", "output": "2029-12-27"}
+{"id": "train-260", "input": "Invoice issued the 20th of July, 2029", "output": "2029-07-20"}
+{"id": "train-261", "input": "Invoice issued October 7, 1973", "output": "1973-10-07"}
+{"id": "train-262", "input": "2016.03.13", "output": "2016-03-13"}
+{"id": "train-263", "input": "the 24th of April, 1969", "output": "1969-04-24"}
+{"id": "train-264", "input": "2021.11.02", "output": "2021-11-02"}
+{"id": "train-265", "input": "Invoice issued 10/15/1999", "output": "1999-10-15"}
+{"id": "train-266", "input": "Invoice issued OCTOBER 8 1989", "output": "1989-10-08"}
+{"id": "train-267", "input": "Date: Thursday, June 15th 2034", "output": "2034-06-15"}
+{"id": "train-268", "input": "Invoice issued Sunday, January 20th 1952", "output": "1952-01-20"}
+{"id": "train-269", "input": "Date: Monday, August 25th 1980", "output": "1980-08-25"}
+{"id": "train-270", "input": "Date: 4 July 2010", "output": "2010-07-04"}
+{"id": "train-271", "input": "Invoice issued 12 July 1995", "output": "1995-07-12"}
+{"id": "train-272", "input": "September 22, 2014", "output": "2014-09-22"}
+{"id": "train-273", "input": "2031.03.03 (please confirm)", "output": "2031-03-03"}
+{"id": "train-274", "input": "Date: JANUARY 25 1960", "output": "1960-01-25"}
+{"id": "train-275", "input": "Date: 20 February 1953", "output": "1953-02-20"}
+{"id": "train-276", "input": "Date: Aug 10th, 1966", "output": "1966-08-10"}
+{"id": "train-277", "input": "Date: 6/20/1958", "output": "1958-06-20"}
+{"id": "train-278", "input": "Date: Wednesday, October 9th 1991", "output": "1991-10-09"}
+{"id": "train-279", "input": "Date: Thursday, September 30th 1982", "output": "1982-09-30"}
+{"id": "train-280", "input": "The meeting is on the 20th of May, 2025.", "output": "2025-05-20"}
+{"id": "train-281", "input": "Invoice issued Jan 7th, 1997", "output": "1997-01-07"}
+{"id": "train-282", "input": "The meeting is on 11/30/1970.", "output": "1970-11-30"}
+{"id": "train-283", "input": "3/26/1998", "output": "1998-03-26"}
+{"id": "train-284", "input": "Invoice issued 2017.01.21", "output": "2017-01-21"}
+{"id": "train-285", "input": "The meeting is on 19 September 2021.", "output": "2021-09-19"}
+{"id": "train-286", "input": "The meeting is on NOVEMBER 28 2018.", "output": "2018-11-28"}
+{"id": "train-287", "input": "The meeting is on Jul 12th, 1983.", "output": "1983-07-12"}
+{"id": "train-288", "input": "Date: the 15th of February, 1992", "output": "1992-02-15"}
+{"id": "train-289", "input": "The meeting is on December 31, 2028.", "output": "2028-12-31"}
+{"id": "train-290", "input": "2016.05.10", "output": "2016-05-10"}
+{"id": "train-291", "input": "4/5/1954 (please confirm)", "output": "1954-04-05"}
+{"id": "train-292", "input": "2030.07.14", "output": "2030-07-14"}
+{"id": "train-293", "input": "August 8, 1966", "output": "1966-08-08"}
+{"id": "train-294", "input": "The meeting is on 1956.01.19.", "output": "1956-01-19"}
+{"id": "train-295", "input": "Invoice issued the 12th of September, 1963", "output": "1963-09-12"}
+{"id": "train-296", "input": "Date: May 19th, 2024", "output": "2024-05-19"}
+{"id": "train-297", "input": "Date: Sunday, October 27th 1996", "output": "1996-10-27"}
+{"id": "train-298", "input": "Date: the 30th of January, 1967", "output": "1967-01-30"}
+{"id": "train-299", "input": "The meeting is on Feb 3rd, 2007.", "output": "2007-02-03"}
+{"id": "train-300", "input": "May 31, 2001", "output": "2001-05-31"}
+{"id": "train-301", "input": "2032.09.29 (please confirm)", "output": "2032-09-29"}
+{"id": "train-302", "input": "Date: Friday, October 15th 2032", "output": "2032-10-15"}
+{"id": "train-303", "input": "January 2, 1971 (please confirm)", "output": "1971-01-02"}
+{"id": "train-304", "input": "Date: the 6th of July, 1953", "output": "1953-07-06"}
+{"id": "train-305", "input": "Date: the 1st of February, 1957", "output": "1957-02-01"}
+{"id": "train-306", "input": "APRIL 17 2002 (please confirm)", "output": "2002-04-17"}
+{"id": "train-307", "input": "The meeting is on 10 September 1972.", "output": "1972-09-10"}
+{"id": "train-308", "input": "Tuesday, January 29th 2030 (please confirm)", "output": "2030-01-29"}
+{"id": "train-309", "input": "Invoice issued JULY 28 1950", "output": "1950-07-28"}
+{"id": "train-310", "input": "Date: Wednesday, December 21st 1960", "output": "1960-12-21"}
+{"id": "train-311", "input": "the 9th of February, 1978", "output": "1978-02-09"}
+{"id": "train-312", "input": "6/29/1965", "output": "1965-06-29"}
+{"id": "train-313", "input": "NOVEMBER 18 1984 (please confirm)", "output": "1984-11-18"}
+{"id": "train-314", "input": "the 21st of May, 1983", "output": "1983-05-21"}
+{"id": "train-315", "input": "Date: 1/6/2014", "output": "2014-01-06"}
+{"id": "train-316", "input": "Date: 1975.03.24", "output": "1975-03-24"}
+{"id": "train-317", "input": "Invoice issued the 20th of June, 1999", "output": "1999-06-20"}
+{"id": "train-318", "input": "Invoice issued Sunday, December 22nd 2030", "output": "2030-12-22"}
+{"id": "train-319", "input": "Invoice issued December 1, 2017", "output": "2017-12-01"}
+{"id": "train-320", "input": "Date: 10/29/1979", "output": "1979-10-29"}
+{"id": "train-321", "input": "19 October 2000 (please confirm)", "output": "2000-10-19"}
+{"id": "train-322", "input": "March 2, 1971", "output": "1971-03-02"}
+{"id": "train-323", "input": "The meeting is on Oct 30th, 1963.", "output": "1963-10-30"}
+{"id": "train-324", "input": "December 1, 1968", "output": "1968-12-01"}
+{"id": "train-325", "input": "December 21, 1967", "output": "1967-12-21"}
+{"id": "train-326", "input": "Date: 1955.02.28", "output": "1955-02-28"}
+{"id": "train-327", "input": "NOVEMBER 3 2018", "output": "2018-11-03"}
+{"id": "train-328", "input": "7 April 1981", "output": "1981-04-07"}
+{"id": "train-329", "input": "Invoice issued 11/3/1954", "output": "1954-11-03"}
+{"id": "train-330", "input": "The meeting is on the 4th of March, 1962.", "output": "1962-03-04"}
+{"id": "train-331", "input": "6/14/1990", "output": "1990-06-14"}
+{"id": "train-332", "input": "5/30/1994", "output": "1994-05-30"}
+{"id": "train-333", "input": "The meeting is on Wednesday, June 25th 1997.", "output": "1997-06-25"}
+{"id": "train-334", "input": "DECEMBER 1 2029", "output": "2029-12-01"}
+{"id": "train-335", "input": "The meeting is on 25 September 2005.", "output": "2005-09-25"}
+{"id": "train-336", "input": "the 2nd of December, 2010", "output": "2010-12-02"}
+{"id": "train-337", "input": "MAY 6 2023", "output": "2023-05-06"}
+{"id": "train-338", "input": "April 10, 2017", "output": "2017-04-10"}
+{"id": "train-339", "input": "Date: Thursday, August 4th 1994", "output": "1994-08-04"}
+{"id": "train-340", "input": "10/12/2013 (please confirm)", "output": "2013-10-12"}
+{"id": "train-341", "input": "Date: the 27th of May, 1970", "output": "1970-05-27"}
+{"id": "train-342", "input": "Invoice issued 4 March 2013", "output": "2013-03-04"}
+{"id": "train-343", "input": "The meeting is on 2021.02.21.", "output": "2021-02-21"}
+{"id": "train-344", "input": "JULY 30 1962", "output": "1962-07-30"}
+{"id": "train-345", "input": "Date: 2004.11.01", "output": "2004-11-01"}
+{"id": "train-346", "input": "Invoice issued May 14th, 1988", "output": "1988-05-14"}
+{"id": "train-347", "input": "Apr 15th, 2030 (please confirm)", "output": "2030-04-15"}
+{"id": "train-348", "input": "The meeting is on December 25, 2026.", "output": "2026-12-25"}
+{"id": "train-349", "input": "Invoice issued Jun 17th, 2024", "output": "2024-06-17"}
+{"id": "train-350", "input": "Date: 2034.09.24", "output": "2034-09-24"}
+{"id": "train-351", "input": "8/23/2009 (please confirm)", "output": "2009-08-23"}
+{"id": "train-352", "input": "Date: Sunday, March 11th 1979", "output": "1979-03-11"}
+{"id": "train-353", "input": "4/9/2014 (please confirm)", "output": "2014-04-09"}
+{"id": "train-354", "input": "The meeting is on the 5th of December, 1969.", "output": "1969-12-05"}
+{"id": "train-355", "input": "Date: Sep 12th, 2027", "output": "2027-09-12"}
+{"id": "train-356", "input": "Date: 9 April 1991", "output": "1991-04-09"}
+{"id": "train-357", "input": "Date: FEBRUARY 7 2034", "output": "2034-02-07"}
+{"id": "train-358", "input": "Invoice issued 5/24/1968", "output": "1968-05-24"}
+{"id": "train-359", "input": "The meeting is on 4 April 1985.", "output": "1985-04-04"}
+{"id": "train-360", "input": "July 15, 1976", "output": "1976-07-15"}
+{"id": "train-361", "input": "the 23rd of July, 2001 (please confirm)", "output": "2001-07-23"}
+{"id": "train-362", "input": "Date: May 15, 2030", "output": "2030-05-15"}
+{"id": "train-363", "input": "OCTOBER 24 1982", "output": "1982-10-24"}
+{"id": "train-364", "input": "Date: JULY 23 1981", "output": "1981-07-23"}
+{"id": "train-365", "input": "Date: the 21st of December, 2035", "output": "2035-12-21"}
+{"id": "train-366", "input": "The meeting is on FEBRUARY 15 2032.", "output": "2032-02-15"}
+{"id": "train-367", "input": "Invoice issued 23 November 1983", "output": "1983-11-23"}
+{"id": "train-368", "input": "The meeting is on Jul 23rd, 1981.", "output": "1981-07-23"}
+{"id": "train-369", "input": "August 15, 2004 (please confirm)", "output": "2004-08-15"}
+{"id": "train-370", "input": "The meeting is on Sep 22nd, 2002.", "output": "2002-09-22"}
+{"id": "train-371", "input": "Friday, July 27th 1951", "output": "1951-07-27"}
+{"id": "train-372", "input": "Date: the 18th of May, 1954", "output": "1954-05-18"}
+{"id": "train-373", "input": "12 September 1975 (please confirm)", "output": "1975-09-12"}
+{"id": "train-374", "input": "Sunday, September 7th 2008 (please confirm)", "output": "2008-09-07"}
+{"id": "train-375", "input": "1952.11.26 (please confirm)", "output": "1952-11-26"}
+{"id": "train-376", "input": "Date: Saturday, July 24th 1993", "output": "1993-07-24"}
+{"id": "train-377", "input": "17 July 1973 (please confirm)", "output": "1973-07-17"}
+{"id": "train-378", "input": "The meeting is on 11/2/1995.", "output": "1995-11-02"}
+{"id": "train-379", "input": "July 2, 1998", "output": "1998-07-02"}
+{"id": "train-380", "input": "2003.07.21 (please confirm)", "output": "2003-07-21"}
+{"id": "train-381", "input": "Invoice issued 2/8/1983", "output": "1983-02-08"}
+{"id": "train-382", "input": "Invoice issued APRIL 26 2017", "output": "2017-04-26"}
+{"id": "train-383", "input": "Date: 5 March 1977", "output": "1977-03-05"}
+{"id": "train-384", "input": "Date: the 18th of November, 2010", "output": "2010-11-18"}
+{"id": "train-385", "input": "Invoice issued NOVEMBER 21 1995", "output": "1995-11-21"}
+{"id": "train-386", "input": "Invoice issued Sep 21st, 1987", "output": "1987-09-21"}
+{"id": "train-387", "input": "The meeting is on APRIL 9 1995.", "output": "1995-04-09"}
+{"id": "train-388", "input": "Saturday, November 6th 2004", "output": "2004-11-06"}
+{"id": "train-389", "input": "The meeting is on 6/8/1985.", "output": "1985-06-08"}
+{"id": "train-390", "input": "The meeting is on 14 August 2011.", "output": "2011-08-14"}
+{"id": "train-391", "input": "MAY 28 1969", "output": "1969-05-28"}
+{"id": "train-392", "input": "Date: 1960.10.29", "output": "1960-10-29"}
+{"id": "train-393", "input": "June 21, 2017", "output": "2017-06-21"}
+{"id": "train-394", "input": "The meeting is on 2/21/1976.", "output": "1976-02-21"}
+{"id": "train-395", "input": "Date: Feb 19th, 2027", "output": "2027-02-19"}
+{"id": "train-396", "input": "Date: Aug 12th, 1973", "output": "1973-08-12"}
+{"id": "train-397", "input": "6 September 2001 (please confirm)", "output": "2001-09-06"}
+{"id": "train-398", "input": "Date: Wednesday, May 7th 2031", "output": "2031-05-07"}
+{"id": "train-399", "input": "Friday, February 24th 2017", "output": "2017-02-24"}
